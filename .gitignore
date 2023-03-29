@@ -1,0 +1,7 @@
+.cache
+.vscode
+bazel-bin
+bazel-out
+bazel-frames
+bazel-testlogs
+external
